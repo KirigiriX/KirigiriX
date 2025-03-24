@@ -25,7 +25,7 @@
 
 ## 🌸 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 🌸
 
-<img align="right" src="https://i.pinimg.com/736x/88/42/b5/8842b5489ccd2375432a10cdf320b6bd.jpg" width="280"/>
+<img align="right" src="https://i.ibb.co/8DFpVDRJ/Kirigri03251.png" width="280"/>
 
 <p align="left">
   こんにちは! (Hello!) Je suis <b>KirigiriX</b>, une développeuse passionnée aux talents de détective numérique. Inspirée par la légendaire Kyoko Kirigiri, j'approche le code et le cracking de jeux avec la même logique implacable et élégance.
