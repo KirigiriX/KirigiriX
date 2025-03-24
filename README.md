@@ -2,7 +2,7 @@
   
   # ✧･ﾟ: *✧･ﾟ 𝑲𝒊𝒓𝒊𝒈𝒊𝒓𝒊𝑿 *:･ﾟ✧*:･ﾟ✧
 
-  ![Kirigiri Banner](https://i.imgur.com/placeholder.png)
+  ![Kirigiri Banner](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c923b06a-2cc3-4967-92b3-4f4f4c079e09/d6rb2rb-63220584-d6b2-4033-8574-1b739fe49097.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M5MjNiMDZhLTJjYzMtNDk2Ny05MmIzLTRmNGY0YzA3OWUwOVwvZDZyYjJyYi02MzIyMDU4NC1kNmIyLTQwMzMtODU3NC0xYjczOWZlNDkwOTcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VAh-1RiGvBQz9fNdfiU7-AJp4Iy2PpIP_nUKlkFFLRo)
   
   <img src="https://media.tenor.com/Ry1-Pr-C56gAAAAC/kyoko-kirigiri-danganronpa.gif" width="200px"/>
   
@@ -63,7 +63,7 @@
       <td align="center">
         <img src="https://media1.tenor.com/m/PL9cioslf9MAAAAC/kirigiri-looking.gif" width="80" />
       </td>
-      <td><span style="color: #ff69b4;">⭐⭐⭐⭐⭐</span></td>
+      <td><span style="color: #ff69b4;">⭐⭐⭐</span></td>
     </tr>
     <tr>
       <td align="center">
@@ -73,7 +73,7 @@
       <td align="center">
         <img src="https://media1.tenor.com/m/o5emTZLOZ38AAAAC/kirigiri-kyouko.gif" width="80" />
       </td>
-      <td><span style="color: #ff69b4;">⭐⭐⭐⭐⭐</span></td>
+      <td><span style="color: #ff69b4;">⭐⭐⭐⭐</span></td>
     </tr>
     <tr>
       <td align="center">
@@ -83,7 +83,7 @@
       <td align="center">
         <img src="https://64.media.tumblr.com/86f117d8bf10844af5204f9b141212ea/tumblr_p8o2m2ETN61rmrupzo1_400.gifv" width="80" />
       </td>
-      <td><span style="color: #ff69b4;">⭐⭐⭐⭐⭐</span></td>
+      <td><span style="color: #ff69b4;">⭐⭐⭐⭐</span></td>
     </tr>
   </table>
 </div>
@@ -124,7 +124,6 @@
   ╰──── ⋅ ⋅ ✩ ⋅ ⋅ ────╯
   
   <a href="https://github.com/KirigiriX">
-    <img src="https://i.imgur.com/placeholder.png" width="40" />
   </a>
   <br />
   <br />
