@@ -48,6 +48,7 @@
 | 📁 | 𝑷𝒓𝒐𝒋𝒆𝒕 | 𝑫𝒆𝒔𝒄𝒓𝒊𝒑𝒕𝒊𝒐𝒏 | 𝑺𝒕𝒂𝒕𝒖𝒕 |
 |:---:|:-------:|:----------:|:------:|
 | 🔮 | [Nekogiri Mod](https://github.com/KirigiriX/NekogiriFix) | Outil permetant de créer des serveurs Photon customisé pour R.E.P.O. | 💜 Actif |
+| 🔮 | [PEAK Server Check Bypass](https://github.com/KirigiriX/peak-version-data-bypass) | Outil permetant de contourner les check de serveur pour PEAK | 💜 Actif |
 
 </div>
 
@@ -107,8 +108,7 @@
 ## 📊 𝑺𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒒𝒖𝒆𝒔 𝑮𝒊𝒕𝑯𝒖𝒃 📊
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KirigiriX&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=ffe6f2&border_color=ff69b4&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirigiriX&layout=compact&langs_count=7&title_color=ff69b4&text_color=ffffff&bg_color=ffe6f2&border_color=ff69b4"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KirigiriX&show_icons=true&title_color=ffffff&icon_color=ff0080&text_color=ffffff&bg_color=ff0080&border_color=ff69b4&include_all_commits=true&count_private=true"/>
 </div>
 
 <div align="center">
