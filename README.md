@@ -7,7 +7,7 @@
   <img src="https://media.tenor.com/Ry1-Pr-C56gAAAAC/kyoko-kirigiri-danganronpa.gif" width="200px"/>
   
   [![GitHub followers](https://img.shields.io/github/followers/KirigiriX?style=for-the-badge&color=ff69b4&labelColor=fee1ff&logoColor=white)](https://github.com/KirigiriX)
-  [![CS.RIN.RU](https://img.shields.io/badge/CS.RIN.RU-Profile-ff69b4?style=for-the-badge&labelColor=fee1ff&logoColor=white)](https://cs.rin.ru/forum/profile.php?id=PLACEHOLDER)
+  [![CS.RIN.RU](https://img.shields.io/badge/CS.RIN.RU-Profile-ff69b4?style=for-the-badge&labelColor=fee1ff&logoColor=white)](https://cs.rin.ru/forum/memberlist.php?mode=viewprofile&u=1147494)
   [![Visitors](https://img.shields.io/badge/visitors-welcome-ff69b4?style=for-the-badge&labelColor=fee1ff&logoColor=white)](https://github.com/KirigiriX)
   
   <p><i>「謎を解くのが好き」- "I enjoy solving mysteries"</i></p>
